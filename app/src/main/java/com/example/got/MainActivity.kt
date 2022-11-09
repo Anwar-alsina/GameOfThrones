@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
         val controller = CharacterEpoxyController()
         binding.epoxyRecyclerview.setController(controller)
+        controller.setData(emptyList())
 
 
         lifecycleScope.launchWhenStarted {
