@@ -23,7 +23,7 @@ This App uses Clean Architecture to ensure:
 
 ## Libraries used
 
-- **Retrofit** - Android Network Client, Used to consume API from Fakestore Api
+- **Retrofit** - Android Network Client, Used to consume API from Game of thrones Api at [Thrones Api](https://thronesapi.com/)
 - **AirBnB Epoxy** - Epoxy is an Android library for building complex screens in a RecyclerView. Models are automatically generated from custom views or databinding layouts via annotation processing. These models are then used in an EpoxyController to declare what items to show in the RecyclerView.
 - **Coroutines** - Used to execute code asynchronously
 - **Material Design + XML** - Used to write the UI of the App
